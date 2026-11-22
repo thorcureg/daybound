@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+coverage/
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+
+# Supabase
+supabase/.branches
+supabase/.temp
